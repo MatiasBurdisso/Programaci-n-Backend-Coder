@@ -1,0 +1,26 @@
+{
+  "name": "primerdesafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasBurdisso/Programaci-n-Backend-Coder.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasBurdisso/Programaci-n-Backend-Coder/issues"
+  },
+  "homepage": "https://github.com/MatiasBurdisso/Programaci-n-Backend-Coder#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
